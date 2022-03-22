@@ -14,7 +14,6 @@
 - 📫 How to reach me **vk0796221@gmail.com**
 
 - 📄 Know about my experiences [here is my Resume ](https://drive.google.com/file/d/1zRhwSqNT89LBPiTJjT6oV45GDOUqNIp9/view)
-- 
 
 - ⚡ Fun fact **Time,Tide and JavaScript waits for none.**
 
