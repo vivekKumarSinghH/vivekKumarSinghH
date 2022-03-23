@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio ](https://vivek-kumar-portfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript ,react & DSA**
+- 💬 Ask me about **JavaScript ,React & DSA**
 
 - 📫 How to reach me **vk0796221@gmail.com**
 
@@ -29,3 +29,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkumarsinghh&show_icons=true&locale=en&layout=compact" alt="vivekkumarsinghh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumarsinghh&" alt="vivekkumarsinghh" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumarsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumarsinghh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkumarsinghh" alt="vivekkumarsinghh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
