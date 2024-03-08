@@ -38,6 +38,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkumarsinghh" alt="vivekkumarsinghh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-# <p align="center">🏆GitHub Trophies</p>
+# <p align="center">🏆Open source</p>
 
 [![An image of @vivekkumarsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekkumarsinghh)](https://holopin.io/@vivekkumarsinghh)
