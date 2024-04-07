@@ -7,13 +7,13 @@
 
 <img style="height:100%;width:100%" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"/>
 
-- 👨‍💻 All of my projects are available at [Portfolio ](https://vivek-kumar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio ](https://vivekkumar-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript ,React & DSA**
 
 - 📫 How to reach me **vk0796221@gmail.com**
 
-- 📄 Know about my experiences [here is my Resume ](https://drive.google.com/file/d/1zRhwSqNT89LBPiTJjT6oV45GDOUqNIp9/view)
+- 📄 Know about my experiences [here is my Resume ](https://vivekkumar-portfolio.vercel.app/assets/vivek-ui-engineer-2.5YOE.pdf)
 
 - ⚡ Fun fact **Time,Tide and JavaScript waits for none.**
 
